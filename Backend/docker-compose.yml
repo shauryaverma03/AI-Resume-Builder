@@ -1,0 +1,24 @@
+version: "3.8"
+
+services:
+  backend:
+    build: .
+    container_name: ai-resume-builder-backend
+    ports:
+      - "5001:5001"
+    env_file:
+      - .env
+    depends_on:
+      - mongodb
+    command: ["node", "src/index.js"]
+
+  mongodb:
+    image: mongo:latest
+    container_name: ai-resume-builder-db
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  mongo_data:

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70" height="44" viewBox="0 0 70 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <!-- L -->
+    <path d="M15 10 L15 34 L25 34" stroke="#000000" stroke-width="3" fill="none"/>
+    
+    <!-- P -->
+    <path d="M30 10 L30 34 M30 10 L40 10 Q45 10 45 15 L45 20 Q45 25 40 25 L30 25" 
+          stroke="#000000" stroke-width="3" fill="none"/>
+    
+    <!-- U -->
+    <path d="M50 10 L50 29 Q50 34 55 34 L60 34 Q65 34 65 29 L65 10" 
+          stroke="#000000" stroke-width="3" fill="none"/>
+</svg>

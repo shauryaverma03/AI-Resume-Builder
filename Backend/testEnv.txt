@@ -1,0 +1,8 @@
+Rename this file to .env
+
+MONGODB_URI={Create Your MongoDB URI And Use it You can use this if you are using Docker mongodb://localhost:27017/} 
+PORT=5001
+JWT_SECRET_KEY={Some Random String for Authentication}
+JWT_SECRET_EXPIRES_IN="1d"
+NODE_ENV=Dev
+ALLOWED_SITE=http://localhost:5173
