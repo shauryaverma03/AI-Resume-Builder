@@ -203,12 +203,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License.
 
-## 👥 Team
-
-- **Sanekha** - Frontend Development
-- **Rishi karthik** - Backend Development
-- **Abhinav** - UI/UX Design
-
 ## 📞 Contact
 
 For any queries or support, please contact the team members:
@@ -217,6 +211,5 @@ For any queries or support, please contact the team members:
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Sanekha, Rishi karthik, and Abhinav</p>
   <p>© 2024 AI Resume Builder</p>
 </div>
